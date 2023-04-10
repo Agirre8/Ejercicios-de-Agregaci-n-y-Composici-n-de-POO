@@ -24,3 +24,6 @@ yang.__del__()
 #>>>  Yang destruido
 
 print("?") 
+
+
+#otra opcion de hacerlo es primero eliminando la instancia yin, la variable yang no se habra creado 
